@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "550c3178b9ec40dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40f4d445ab3f2fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Problems/ACW-1064. 小国王.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "605322d8c20da053",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb02edce13f06a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7103bc8e6c097c4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6af44d21f940c5d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "433c05b0e0a09ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec280d6b38fe61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c081988d67eba38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problems/ACW-1064. 小国王.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a6176f9a62778e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Problems/ACW-1064. 小国王.md"
+              }
+            }
+          },
+          {
+            "id": "54ccf9de530567e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "active": "c40f4d445ab3f2fc",
+  "lastOpenFiles": [
+    "🗺️ Todo.md",
+    "Problems/LG-P2571 [SCOI2010]传送带.md",
+    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md",
+    "Problems/ICPC-2018南京D.最小球覆盖.md",
+    "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
+    "Problems/ICPC-2020南京Fireworks.md",
+    "Notes/杂项/三分.md",
+    "Notes/杂项/三分-三分套三分.md",
+    "Notes/杂项/三分-实数.md",
+    "Notes/杂项/三分-整数.md"
+  ]
+}

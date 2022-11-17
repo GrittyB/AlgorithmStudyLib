@@ -1,0 +1,74 @@
+{
+  "choices": [
+    {
+      "id": "536806c6-96c8-4d67-9ba3-505afbb40d5e",
+      "name": "题目",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Problems/{{VALUE}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Extras/Templates/题目模板"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE}} #todo \n( 是个好题目的话, 记得提炼好放sm里哦 )"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "5a014f81-d5a4-4269-b30e-e56b29fd064e",
+      "name": "Task",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "Daily task/{{DATE}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE}} #todo"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "1",
+        "insertAtEnd": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

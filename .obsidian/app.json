@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "legacyEditor": false,
+  "attachmentFolderPath": "Extras/Media",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "useTab": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "lineWrap": true,
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  }
+}

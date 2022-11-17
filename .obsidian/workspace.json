@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "550c3178b9ec40dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bec01ad2e4f63f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40f4d445ab3f2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/数学/+ 数学模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "251b5f1943247340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/图论/+ 图论模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ef280e999aeeca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/树/Binary Jumping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f93a95063a80c8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/树/Binary Jumping - LCA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fc73103bc54738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/树/Binary Jumping - LCA - CODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c13a630f5ce6581d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "03a052a5f76229e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/树/Binary Jumping - LCA - CODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "605322d8c20da053",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb02edce13f06a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7103bc8e6c097c4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6af44d21f940c5d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "433c05b0e0a09ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec280d6b38fe61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c081988d67eba38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/数学/+ 数学模板.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a6176f9a62778e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/数学/+ 数学模板.md"
+              }
+            }
+          },
+          {
+            "id": "54ccf9de530567e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5,
+    "collapsed": true
+  },
+  "active": "c40f4d445ab3f2fc",
+  "lastOpenFiles": [
+    "Notes/树/+ 树上问题模板.md",
+    "Problems/ACW-1057. 股票买卖 IV.md",
+    "Problems/ABC-D - Index × A(Not Continuous ver.).md",
+    "Problems/ACW-1012. 友好城市.md",
+    "Problems/BZOJ1791 Island.md",
+    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md",
+    "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
+    "Problems/ICPC-2020南京Fireworks.md",
+    "Problems/ICPC-2021东南欧-F. to Pay Respects.md",
+    "Problems/ICPC-2018南京D.最小球覆盖.md"
+  ]
+}
