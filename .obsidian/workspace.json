@@ -8,86 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c40f4d445ab3f2fc",
+            "id": "7cc9a93c410c854b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/数学/+ 数学模板.md",
+                "file": "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "251b5f1943247340",
+            "id": "22aa81b1b7837621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/图论/+ 图论模板.md",
+                "file": "TODO/🗺️ Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34ef280e999aeeca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/树/Binary Jumping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93a95063a80c8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/树/Binary Jumping - LCA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fc73103bc54738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/树/Binary Jumping - LCA - CODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c13a630f5ce6581d",
+            "id": "7a72c074e444e32b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "03a052a5f76229e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/树/Binary Jumping - LCA - CODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/数学/+ 数学模板.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/数学/+ 数学模板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,20 +132,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
-  "active": "c40f4d445ab3f2fc",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "7a72c074e444e32b",
   "lastOpenFiles": [
-    "Notes/树/+ 树上问题模板.md",
-    "Problems/ACW-1057. 股票买卖 IV.md",
-    "Problems/ABC-D - Index × A(Not Continuous ver.).md",
-    "Problems/ACW-1012. 友好城市.md",
-    "Problems/BZOJ1791 Island.md",
-    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md",
+    "🖥️command.md",
+    "📄 About this.md",
+    "Problems/力扣-6272. 好分区的数目.md",
+    "TODO/🗺️ Todo.md",
+    "Problems/ICPC-2022网络赛第二场-A.Yet Another Remainder .md",
+    "Trick/未命名.canvas",
     "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
-    "Problems/ICPC-2020南京Fireworks.md",
-    "Problems/ICPC-2021东南欧-F. to Pay Respects.md",
-    "Problems/ICPC-2018南京D.最小球覆盖.md"
+    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md",
+    "Problems/ICPC-2018南京D.最小球覆盖.md",
+    "Trick/😀Index.md"
   ]
 }
