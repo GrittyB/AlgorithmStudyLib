@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a72c074e444e32b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO/🗺️ Todo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO/🗺️ Todo.md"
+              }
             }
           },
           {
@@ -147,17 +142,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7a72c074e444e32b",
+  "active": "7103bc8e6c097c4c",
   "lastOpenFiles": [
+    "Trick/求和,不等式.md",
+    "Trick/😀Index.md",
+    "TODO/🗺️ Todo.md",
     "🖥️command.md",
     "📄 About this.md",
     "Problems/力扣-6272. 好分区的数目.md",
-    "TODO/🗺️ Todo.md",
     "Problems/ICPC-2022网络赛第二场-A.Yet Another Remainder .md",
     "Trick/未命名.canvas",
     "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
-    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md",
-    "Problems/ICPC-2018南京D.最小球覆盖.md",
-    "Trick/😀Index.md"
+    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md"
   ]
 }
