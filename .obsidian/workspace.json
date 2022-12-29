@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bec01ad2e4f63f0",
+        "id": "6aea118188dce6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc9a93c410c854b",
+            "id": "bb3909ee3e3ae9a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22aa81b1b7837621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/🗺️ Todo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/🗺️ Todo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO/🗺️ Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,17 +122,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7103bc8e6c097c4c",
+  "active": "bb3909ee3e3ae9a6",
   "lastOpenFiles": [
+    "Problems/ABC-245-E - Wrapping Chocolate .md",
+    "TODO/🗺️ Todo.md",
+    "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
+    "Problems/ABC-E - Erasing Vertices 2.md",
+    "Problems/ICPC-2018南京D.最小球覆盖.md",
+    "Problems/ABC-D - Index × A(Not Continuous ver.).md",
     "Trick/求和,不等式.md",
     "Trick/😀Index.md",
-    "TODO/🗺️ Todo.md",
     "🖥️command.md",
-    "📄 About this.md",
-    "Problems/力扣-6272. 好分区的数目.md",
-    "Problems/ICPC-2022网络赛第二场-A.Yet Another Remainder .md",
-    "Trick/未命名.canvas",
-    "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
-    "Problems/ICPC-2022网络赛第一场-A 01 Sequence.md"
+    "📄 About this.md"
   ]
 }

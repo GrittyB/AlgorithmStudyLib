@@ -3,7 +3,7 @@ date: 2022-10-10
 url: https://codeforces.com/gym/101981
 tags: 
 - 来源/ICPC
-- 类型/三分
+- 类型/杂项/三分
 - 类型/计算几何/最小球覆盖
 ---
 

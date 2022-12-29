@@ -3,7 +3,7 @@ date: 2022-10-09
 url: https://ac.nowcoder.com/acm/problem/216006
 tags: 
 - 来源/ICPC
-- 类型/三分
+- 类型/杂项/三分
 ---
 
 
