@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trick/求和,不等式.md",
+                "file": "Problems/ICPC-2018南京D.最小球覆盖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a16d06e14badfa7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/字符串/字符串哈希-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "子集",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trick/求和,不等式.md",
+                "file": "Notes/字符串/字符串哈希-.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trick/求和,不等式.md"
+                "file": "Notes/字符串/字符串哈希-.md"
               }
             }
           },
@@ -129,15 +142,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bb3909ee3e3ae9a6",
+  "active": "a16d06e14badfa7e",
   "lastOpenFiles": [
-    "Problems/牛客-946B-筱玛爱阅读.md",
+    "Problems/ICPC-2018南京D.最小球覆盖.md",
     "Trick/求和,不等式.md",
+    "Problems/牛客-946B-筱玛爱阅读.md",
     "Problems/ABC-245-E - Wrapping Chocolate .md",
     "TODO/🗺️ Todo.md",
     "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
     "Problems/ABC-E - Erasing Vertices 2.md",
-    "Problems/ICPC-2018南京D.最小球覆盖.md",
     "Problems/ABC-D - Index × A(Not Continuous ver.).md",
     "Trick/😀Index.md",
     "🖥️command.md"
