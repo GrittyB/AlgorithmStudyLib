@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/ICPC-2018南京D.最小球覆盖.md",
+                "file": "Notes/动态规划/背包DP.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "a16d06e14badfa7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/字符串/字符串哈希-.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "背包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/字符串/字符串哈希-.md",
+                "file": "Notes/动态规划/背包DP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/字符串/字符串哈希-.md"
+                "file": "Notes/动态规划/背包DP.md"
               }
             }
           },
@@ -142,17 +137,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a16d06e14badfa7e",
+  "active": "bb3909ee3e3ae9a6",
   "lastOpenFiles": [
+    "Notes/动态规划/树形DP.md",
+    "Notes/动态规划/DP-初始化.md",
+    "Notes/动态规划/DP- + 问题类型.md",
+    "Notes/动态规划/DP-方案数.md",
+    "Notes/动态规划/LIS.md",
+    "Notes/动态规划/子集DP.md",
+    "Notes/动态规划/状压DP.md",
+    "Notes/动态规划/背包DP.md",
     "Problems/ICPC-2018南京D.最小球覆盖.md",
-    "Trick/求和,不等式.md",
-    "Problems/牛客-946B-筱玛爱阅读.md",
-    "Problems/ABC-245-E - Wrapping Chocolate .md",
-    "TODO/🗺️ Todo.md",
-    "Problems/ICPC-2022网络赛第二场-B.Non-decreasing Array.md",
-    "Problems/ABC-E - Erasing Vertices 2.md",
-    "Problems/ABC-D - Index × A(Not Continuous ver.).md",
-    "Trick/😀Index.md",
-    "🖥️command.md"
+    "Trick/求和,不等式.md"
   ]
 }
